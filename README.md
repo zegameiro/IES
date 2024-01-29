@@ -37,7 +37,7 @@ Encontra-se disponibilizados os slides das aulas teóricas, os guiões das aulas
 | :---: | :---: |
 | Guião 1 | 17,2 |
 | Guião 2 | 15,7 |
-| GUião 3 | 16,8 |
+| Guião 3 | 16,8 |
 
 ## Projeto final
 
